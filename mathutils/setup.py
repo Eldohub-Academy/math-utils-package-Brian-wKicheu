@@ -8,5 +8,6 @@ install_requires=[],
 description="A simple Python math utilities package",
 author="Brian Kicheu",
 author_email="brayokichez@gmail.com",
+url="https://github.com/",
 license="MIT"
 )
